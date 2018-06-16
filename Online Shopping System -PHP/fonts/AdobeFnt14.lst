@@ -1,0 +1,269 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\arial.ttf
+DataFormat:sfntData
+FileLength:895200
+FileModTime:1416557650
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\arialbd.ttf
+DataFormat:sfntData
+FileLength:857344
+FileModTime:1416557650
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\ariali.ttf
+DataFormat:sfntData
+FileLength:635860
+FileModTime:1416557650
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica-Oblique
+FamilyName:Helvetica
+StyleName:Oblique
+FullName:Helvetica Oblique
+MenuName:Helvetica
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\Helvetica-Oblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25488
+FileModTime:1480107318
+WeightClass:500
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Helvetica
+FamilyName:Helvetica
+StyleName:Regular
+FullName:Helvetica
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\Helvetica.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25344
+FileModTime:1480107318
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+FullName:Helvetica Neue LT Std 75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28240
+FileModTime:1480107324
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-It
+FamilyName:Helvetica Neue LT Std
+StyleName:56 Italic
+FullName:Helvetica Neue LT Std 56 Italic
+MenuName:HelveticaNeueLT Std
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28412
+FileModTime:1480107324
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+FullName:Helvetica Neue LT Std 45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28120
+FileModTime:1480107324
+WeightClass:300
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-LtIt
+FamilyName:Helvetica Neue LT Std
+StyleName:46 Light Italic
+FullName:Helvetica Neue LT Std 46 Light Italic
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-LtIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28628
+FileModTime:1480107324
+WeightClass:300
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Md
+FamilyName:Helvetica Neue LT Std
+StyleName:65 Medium
+FullName:Helvetica Neue LT Std 65 Medium
+MenuName:HelveticaNeueLT Std Med
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:28260
+FileModTime:1480107324
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+FullName:Helvetica Neue LT Std 55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27476
+FileModTime:1480107324
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1329335626
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+FullName:Wingdings
+MenuName:Wingdings
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:E:\Projects\Maiisuu\Maiisuu MockUp\Document fonts\wingding.ttf
+DataFormat:sfntData
+FileLength:83740
+FileModTime:1377185697
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
